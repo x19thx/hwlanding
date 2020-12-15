@@ -122,6 +122,8 @@
 		line-height: 40px;
 	}
 	.subtitle__header{
+		padding-left: 10px;
+    		padding-right: 10px;
 		width: 100%;
 		font-size: 13px;
 		
