@@ -103,3 +103,8 @@
 		font-size: 12px;
 	}
 }
+
+@media (max-width:100%){
+	.container{
+		width:100%}
+}	
